@@ -21,7 +21,7 @@ from colorama import *
 import random, datetime, discord                        
 #=====User && Methods Setting=====#
 buyers  = [920122047311540294]  #          
-admins  = [920122047311540294]  #   ID users            
+admins  = [847455634068996096]  #   ID users            
 owners  = [847455634068996096]  #          
 methods = ['HTTP-FLOOD', 'HTTP-RAW', 'HTTP-RAND', 'HTTP-SOCKET','CLOUDFLARE','UAM-BYPASS','SLOW'] # Methods
 year_now= datetime.datetime.now().strftime("%Y")     
